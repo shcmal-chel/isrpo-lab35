@@ -12,6 +12,4 @@ public static class MemesStore
     };
 
     public static int NextId() => _nextId++;
-    
-    
 }
